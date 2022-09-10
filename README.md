@@ -12,7 +12,7 @@ For the installation a rust compiler (and cargo) is required.
 git clone https://github.com/El-Wumbus/num.rs.git
 cd num.rs
 cargo build --release
-install -D -m 751 ./target/release/num ~/.local/bin
+install -D -m 751 ./target/release/num ~/.local/bin/num
 ```
 
 > You can install the program to any directory in your `$PATH` with any permissions you desire.
