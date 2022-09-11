@@ -43,6 +43,7 @@ fn parse_args(opt: Opt) -> Vec<i64>
             }
         });
     }
+    inputvec.dedup();
     inputvec
 }
 
