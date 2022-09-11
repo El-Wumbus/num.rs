@@ -68,4 +68,4 @@ $ num A 66 0o102 0x43 0b1000100
 * Fork the repository and create pull requests to this repository.
 * Don’t change the formatting - Dont reformat or otherwise change the formatting of source code or documentation in the repo. Use the same formatting as the rest of the codebase. Format with rustfmt using the `rustfmt.toml` configuration file.
 * Make documentation - If adding features or otherwise changing the user experience create documentation regarding the added or changed features.
-* Use space only indentation in all source code files with the sole execption of Makefile - Do not use tabs or any form of indentation other than spaces. Use 2 space indentation.
+* Use space only indentation in all source code files - Do not use tabs or any form of indentation other than spaces. Use 2 space indentation.
